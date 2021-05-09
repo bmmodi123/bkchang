@@ -12,7 +12,7 @@
 <body>
 	<section class="flex-container">
 		<form action="#">
-			<label for="amount">Hello:</label><br>
+			<label for="amount">Amount:</label><br>
 		  	<input type="number" id="amount" name="amount"><br>
 
 		  	<label for="purpose">Purpose:</label><br>
